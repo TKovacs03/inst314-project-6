@@ -1,0 +1,11 @@
+q1,q2,q3,q4,q5,age,gender,Occupation
+2,2,10,3,n,20,m,student
+1,2,9,3,n,20,m,student
+5,1,10,3,n,22,f,student
+4,1,10,3,n,21,m,student
+6,3,8,3,n,19,,student
+4,1,10,3,n,21,f,student
+1,1,10,3,n,20,,student
+2,1,8,3,n,22,m,student
+3,1,10,3,n,20,f,student
+1,1,10,3,n,19,f,student
